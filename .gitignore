@@ -1,0 +1,2 @@
+# Do not commit .csv files used as reference
+data/
